@@ -1,0 +1,10 @@
+header{
+    background:linear-gradient(to right, #0052d4, #4364f7, #6fb1fc) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fafafa;
+    box-shadow: var(--box-shadow);
+}
+
