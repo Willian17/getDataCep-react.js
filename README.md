@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Get data cep
+
+1.Tela - receber o dado(cep)
+![cep1](https://user-images.githubusercontent.com/53010824/79680823-6e3c5700-81ea-11ea-97df-cf7fab2af518.png)
+
+2.Tela - imprimir uma tabela com os dados(rua, bairro, cidade e estado)
+![cep2](https://user-images.githubusercontent.com/53010824/79680850-ca9f7680-81ea-11ea-9f35-c2e2b7424fc7.png)
 
 ## Available Scripts
 
@@ -67,13 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-# get data cep
 
-1.Tela - receber o dado(cep)
-![cep1](https://user-images.githubusercontent.com/53010824/79680823-6e3c5700-81ea-11ea-97df-cf7fab2af518.png)
-
-2.Tela - imprimir uma tabela com os dados(rua, bairro, cidade e estado)
-![cep2](https://user-images.githubusercontent.com/53010824/79680850-ca9f7680-81ea-11ea-9f35-c2e2b7424fc7.png)
 
 
 
